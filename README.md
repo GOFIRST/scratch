@@ -8,7 +8,7 @@ I'm going to add a list to this file:
 
     * It's easy!
     * It's fun!
-    * It's a Blast!
+    * It's a Buhhhgahhh!
     * Or so you might think at first.
 
 Everyone has a secret sixth toe.

@@ -27,5 +27,6 @@ Not so much
 Watch out for John, he'll murder you!
 
 I am new here..!!
+getting familiar wit git... 
 
 

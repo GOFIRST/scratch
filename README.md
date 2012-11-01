@@ -25,3 +25,5 @@ Johnisnotawesome94
 Not so much
 
 Watch Out for John, He'll Murder you!
+
+I am new here..!!

@@ -24,4 +24,4 @@ Johnisnotawesome94
 
 Not so much
 
-Watch Out for John, He'll Murder you!
+Watch out for John, he'll murder you!

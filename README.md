@@ -30,5 +30,7 @@ Watch out for John, he'll murder you!
 
 I am new here..!!
 
+There have got to be better text editors than gedit.
+
 Mwahahahahaaaaaa!
 

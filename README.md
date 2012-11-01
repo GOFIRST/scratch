@@ -3,7 +3,9 @@ scratch
 
 Sandbox repository for you to play with Git.
 
-I'm going to kill you!
+Feel free to make any changes you please... except threatening ones.
+
+I'm going to kill you! [citation needed]
 * You can use Markdown to easily format the file.
 
     * It's easy!

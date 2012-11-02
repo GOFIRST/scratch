@@ -1,7 +1,7 @@
 scratch
 =======
 
-Sandbox repository for you to play with Git.
+Sand castle repository for you to play with Git.
 
 Feel free to make any changes you please... except threatening ones.
 

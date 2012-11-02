@@ -1,7 +1,7 @@
 scratch
 =======
 
-Sand castle repository for you to play with your mom.
+Sand castle repository for you to play with John's mom.
 
 Feel free to make any changes you please... except threatening ones.
 

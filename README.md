@@ -1,7 +1,7 @@
 scratch
 =======
 
-Sandbox repository for you to play with Git. Hi.
+Boombox repository for you to play with Git. Hi.
 
 Feel free to make any changes you please... except threatening ones.
 

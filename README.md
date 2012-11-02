@@ -1,7 +1,7 @@
 scratch
 =======
 
-Sandbox repository for you to play with Git.
+boombox repository for you to play with Git.
 
 Feel free to make any changes you please... except threatening ones.
 
@@ -34,4 +34,5 @@ getting familiar wit git...
 There have got to be better text editors than gedit.
 
 Mwahahahahaaaaaa!
+
 

@@ -1,7 +1,7 @@
 scratch
 =======
 
-boombox repository for you to mess around with Git.
+Boombox repository for you to mess around with Git.
 
 Feel free to make any changes you please... except threatening ones.
 

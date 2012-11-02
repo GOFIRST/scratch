@@ -3,7 +3,9 @@ scratch
 
 Sandbox repository for you to play with Git.
 
-I'm going to add a list to this file:
+Feel free to make any changes you please... except threatening ones.
+
+I'm going to kill you! [citation needed]
 * You can use Markdown to easily format the file.
 
     * It's easy!
@@ -20,3 +22,45 @@ thom4354 test
 
 Biscuit
 
+Johnisnotawesome94
+
+Not so much
+
+Watch out for John, he'll murder you!
+
+I am new here..!!
+getting familiar wit git... 
+
+There have got to be better text editors than gedit.
+
+Mwahahahahaaaaaa!
+
+
+                ,'\   |\
+               / /.:  ;;
+              / :'|| //
+             (| | ||;'
+             / ||,;'-.._
+            : ,;,`';:.--`
+            |:|'`-(\\
+            ::: \-'\`'
+             \\\ \,-`.
+              `'\ `.,-`-._      ,-._
+       ,-.       \  `.,-' `-.  / ,..`.
+      / ,.`.      `.  \ _.-' \',: ``\ \
+     / / :..`-'''``-)  `.   _.:''  ''\ \
+    : :  '' `-..''`/    |-''  |''  '' \ \
+    | |  ''   ''  :     |__..-;''  ''  : :
+    | |  ''   ''  |     ;    / ''  ''  | |
+    | |  ''   ''  ;    /--../_ ''_ '' _| |
+    | |  ''  _;:_/    :._  /-.'',-.'',-. |
+    : :  '',;'`;/     |_ ,(   `'   `'   \|
+     \ \  \(   /\     :,'  \
+      \ \.'/  : /    ,)    /
+       \ ':   ':    / \   :
+        `.\    :   :\  \  |
+                \  | `. \ |..-_
+             SSt ) |.  `/___-.-`
+               ,'  -.'.  `. `'        _,)
+               \'\(`.\ `._ `-..___..-','
+                  `'      ``-..___..-'

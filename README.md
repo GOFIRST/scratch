@@ -1,7 +1,7 @@
 scratch
 =======
 
-Boombox repository for you to play with Git. Hi.
+Boombox repository for you to mess around with Git.
 
 Feel free to make any changes you please... except threatening ones.
 
@@ -34,4 +34,5 @@ getting familiar wit git...
 There have got to be better text editors than gedit.
 
 Mwahahahahaaaaaa!
+
 
